@@ -1,0 +1,12 @@
+.header {
+  height: 7vh;
+  min-height: 76px;
+  width: 100vw;
+  padding: 0 2.4rem;
+  font-size: 3rem;
+  font-weight: 500;
+  position: relative;
+  background-color: #020a11;
+  color: white;
+  justify-content: space-between;
+}
