@@ -1,9 +1,9 @@
 ## [E-Pavement Website](https://e-pavement.eu/)
 
 An original website made for the tech company "E-Pavement" OÜ. Some parts of the full code are closed-source.
-  - Website design
-  - Website structure, styling and responsiveness
-  - Website deployment 
+  - Built using React/Typescript/Redux
+  - Website design, styling and responsiveness
+  - Website deployment
   - Search Engine Optimization
   - Mailing Service setup with SMTP server (EmailJS)
 <br />
